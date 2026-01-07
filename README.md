@@ -57,13 +57,12 @@ python weatherly.py
 
 ### 🌙 Dark Theme
 
-![Dark Theme](<img width="1009" height="711" alt="image" src="https://github.com/user-attachments/assets/60f6afca-21f1-4666-a525-252e2716a757" />
-)
+<img width="1009" height="711" alt="image" src="https://github.com/user-attachments/assets/60f6afca-21f1-4666-a525-252e2716a757" />
 
 
 ### 📊 Temperature Graph
 
-![Temperature Graph](<img width="880" height="702" alt="image" src="https://github.com/user-attachments/assets/68276115-8c47-4c11-8085-9326c8f4a5c8" />
+<img width="880" height="702" alt="image" src="https://github.com/user-attachments/assets/68276115-8c47-4c11-8085-9326c8f4a5c8" />
 )
 
 ---
